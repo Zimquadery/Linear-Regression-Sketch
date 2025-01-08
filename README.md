@@ -1,6 +1,6 @@
 # Linear Regression Sketch
 
-This project is a simple interactive sketch that demonstrates linear regression using the p5.js library. Users can add points by clicking on the canvas, and the sketch will dynamically calculate and display the best-fit line using linear regression.
+This project is a simple interactive sketch that demonstrates linear regression using the p5.js library. Users can add points by clicking on the canvas, and the sketch will dynamically calculate and display the best-fit line using linear regression. [Click here for demo](https://zimquadery.github.io/Linear-Regression-Sketch/)
 
 ## Features
 - **Interactive Canvas**: Click to add points.

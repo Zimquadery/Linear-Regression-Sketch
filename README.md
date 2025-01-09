@@ -21,3 +21,5 @@ This project is a simple interactive sketch that demonstrates linear regression 
 ## How to Run
 1. Clone the repository.
 2. Open index.html in your web browser.
+
+![preview](https://github.com/user-attachments/assets/a8a56194-c07e-4d58-b361-484337c30c27)
